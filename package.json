@@ -1,0 +1,26 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "A Project to Track all the expense of User and Display summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "expense-tracker": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ExpenseTracker"
+  },
+  "keywords": [
+    "expense",
+    "tracker"
+  ],
+  "author": "Pranavkant Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
