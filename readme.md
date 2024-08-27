@@ -8,6 +8,9 @@ This is a command-line interface (CLI) tool for managing your personal expenses.
 ### Project URL
 [![Project Page](https://img.shields.io/badge/Project%20Page-Click%20Here-brightgreen)](https://roadmap.sh/projects/expense-tracker)
 
+### Languages Used
+1. JavaScript
+
 ## Installation
 
 1. Clone the repository:
